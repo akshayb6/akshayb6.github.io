@@ -1,6 +1,5 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "These are various projects that I have implemented over the years. Source code can be found on my Github."
 
 - project:
   title: Experiments with Reddit Comments
