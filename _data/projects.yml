@@ -3,22 +3,22 @@
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: Experiments with Reddit Comments
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Analyzed one month of Reddit comments using Apache Spark and trained a LSTM recurrent neural network on data from specific subreddits in order to predict comments using deep learning strategies.Gained key insights about the data and visualized it in Apache Spark."
 - project:
-  title: Tempo
+  title: Path Finding and collission Detection in Virtual Environment
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Implemented the Rapidly-exploring Random Trees (RRT) algorithm in order to find a path between two points in an environment and developed collision detection techniques to avoid obstacles in the environment.  Improved the algorithm for use with polygonal robots in the environment."
 - project:
-  title: Atom
+  title: Stock Market Analysis and Prediction tool
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: "Developed a web based application which presented users with a dashboard to buy/sell stocks. Applied Machine Learning techniques such as Bayesian Curve Fitting, Artificial Neural Networks and Support Vector Machines to historical and real-time data of various stock prices and predicted whether stock of a particular company should be bought or held or sold."
 - project:
-  title: Delta
+  title: Chess Data Analytics using Hadoop
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Analyzed 22 GB of chess data to determine statistics using Amazon’s Elastic MapReduce (EMR) and S3. Determined percentage of victories for players using Black and White and number of draws for 28 million records."
+- project:
+  title: Predictive and Corrective Text input for desktop editors
+  link: "#"
+  tagline: "Developed an improved text editor for Windows machines using Visual Studio(C#). Implemented suffix trees for data compression and utilized n-grams and frequency analysis to facilitate word prediction.Authored and presented a technical paper regarding the same at the International Conference on Advances in Human Machine Interaction, 2016 which was published in the IEEE Xplore Digital Library"
