@@ -14,5 +14,11 @@
   name: C
   level: 70%
 - skill:
+  name: Apache SPARK
+  level: 70% 
+- skill:
+  name: AWS
+  level: 70% 
+- skill:
   name: Android SDK
   level: 60%
