@@ -6,7 +6,7 @@
   link: "#"
   tagline: "Analyzed one month of Reddit comments using Apache Spark and trained a LSTM recurrent neural network on data from specific subreddits in order to predict comments using deep learning strategies.Gained key insights about the data and visualized it in Apache Spark."
 - project:
-  title: Path Finding and collission Detection in Virtual Environment
+  title: Path Finding and Collision Detection in Virtual Environment
   link: "#"
   tagline: "Implemented the Rapidly-exploring Random Trees (RRT) algorithm in order to find a path between two points in an environment and developed collision detection techniques to avoid obstacles in the environment.  Improved the algorithm for use with polygonal robots in the environment."
 - project:
