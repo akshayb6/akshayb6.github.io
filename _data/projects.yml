@@ -20,4 +20,4 @@
 - project:
   title: Predictive and Corrective Text input for desktop editors
   link: "#"
-  tagline: "Developed an improved text editor for Windows machines using Visual Studio(C#). Implemented suffix trees for data compression and utilized n-grams and frequency analysis to facilitate word prediction.Authored and presented a technical paper regarding the same at the International Conference on Advances in Human Machine Interaction, 2016 which was published in the IEEE Xplore Digital Library"
+  tagline: "Developed an improved text editor for Windows machines. Implemented suffix trees for data compression and utilized n-grams and frequency analysis to facilitate word prediction.Authored and presented a technical paper regarding the same at the International Conference on Advances in Human Machine Interaction, 2016 which was published in the IEEE Xplore Digital Library"
