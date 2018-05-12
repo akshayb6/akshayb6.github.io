@@ -14,9 +14,7 @@ baseurl: '' #change it according to your repository name
 name: Akshay Bhatia
 tagline: Computer Science Graduate and Software Developer
 pic: Profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Hello, I am a graduate student of Computer Science at Rutgers University and I will be graduating in May 2018. 
-I presently serve as a Part-Time Lecuturer at Rutgers and my interests lie in the fields of Machine Learning, Data Mining, Artificial Intelligence and Computational Robotics.
-I am actively looking for full-time roles starting in June 2018. You can scroll down to view my Resume or <a href="/resume_akshay_bhatia.pdf" target="_blank">click here to download it</a>. '
+summary: 'I am a Computer Science graduate from Rutgers University, NJ. I have more than 5 years of programming experience in Java and almost 2 years of programming experience in Python. I am also a certified web developer and I am proficient in HTML/CSS, JavaScript, PHP, JQuery, and AJAX. I have worked with big data technologies such as Hadoop and Apache SPARK and have also deployed projects on AWS and Google Cloud Platform. I am passionate about software development and data analytics and I am actively looking for opportunities to kick start my professional career. You can scroll down to view my Resume or <a href="/resume_akshay_bhatia.pdf" target="_blank">click here to download it</a>. '
 
 #sidebar links
 email: akshay.bhatia@live.com
